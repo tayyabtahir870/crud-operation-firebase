@@ -1,0 +1,80 @@
+.signin {
+  text-decoration: none;
+  color: white;
+}
+.card {
+  // height: 70vh !important;
+  box-shadow: 5px 10px #888888;
+}
+.loginbtn {
+  border: none;
+  background-color: #26d7ba;
+  color: white;
+
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.loginpage {
+  text-decoration: none;
+  color: #26d7ba;
+}
+
+
+
+
+.feild {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.signIn{
+  .card{
+    box-shadow: 5px 10px #26d7ba;
+  }
+}
+
+
+.signUp{
+  .card{
+    
+    box-shadow: 5px 10px #AF7AEE;
+
+  }
+
+  .loginbtn {
+    border: none;
+    background-color: #AF7AEE;
+    color: white;
+  
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+  }
+
+  .loginpage1 {
+    text-decoration: none;
+    color: #AF7AEE;
+  }
+  
+}
+
+.edit{
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.inputfeild{
+  border-left: none;
+  border-top: none;
+  border-right: none;
+}
+
+.passwordclr{
+  color: red;
+}
